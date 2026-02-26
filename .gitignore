@@ -28,3 +28,11 @@ Thumbs.db
 .*
 !.git
 !.gitignore
+__pycache__/
+*.pyc
+.env
+.vscode/
+.DS_Store
+*.zip
+.ipynb_checkpoints/
+*.ipynb
