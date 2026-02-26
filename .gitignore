@@ -1,3 +1,33 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Zip files
+*.zip
+
+# Dot files and folders (except .git)
+.*
+!.git
+!.gitignore
 __pycache__/
 *.pyc
 .env
